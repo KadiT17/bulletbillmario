@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">19.12.2017</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="On" />
+    <string name="text">tekst on nähtav</string>
+    <string name="switshbuttOn">tekst on olemas</string>
+    <string name="switshbuttOff">tekst pole plemas</string>
+</resources>
